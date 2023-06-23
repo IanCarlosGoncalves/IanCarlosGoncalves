@@ -1,4 +1,4 @@
-## Oiii eu sou Ian Carlos,desenvolvedor Front End!
+## Oiii eu sou Ian Carlos!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
